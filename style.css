@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+}
+header{
+   background-image: linear-gradient(to right, rgb(0, 255, 0),rgb(0, 115, 0),rgb(0, 0, 0));
+   padding: 50px;
+}
+body{
+   background-color:rgb(139, 60, 0) ;
+}
+header h1{
+   background-color: rgb(53, 255, 53);
+   border: 10px solid rgb(0, 255, 0);
+   border-radius: 50px;
+  box-shadow: 10px 10px 5px brown ;
+}
+.pution {
+   height:10px;
+   width: 10px;
+
+
+}
+.div1{
+   display: flex;
+   justify-content: right;
+   align-items: center;
+   width: 50%;
+   flex-direction: column;
+}
+.craft {
+   height:100px;
+   width: 175px;
+}
+.end{
+  width: 300px;
+}
+.min{
+   width: 250px;
+}
+.text{
+   color:gray;
+}
+.big_shot{
+   display: flex;
+   flex-direction: row;
+   padding: 15px;
+}
+.music {
+   display: flex;
+   justify-content: flex-start;
+}
+
+footer p {
+    color:grey ;
+}
+main h1 {
+    color: grey;
+}
+footer{
+      background-image: linear-gradient(to bottom, rgb(139, 60, 0),rgb(0, 0, 0),rgb(0, 0, 0));
+}
+p {
+ color: grey;
+}
+.idj{
+   width: 100px;
+   height: 100px;
+}
+.huh{
+   width: 250px;
+   height: 100px;
+}
+.sfd{
+   display: flex;
+}
+.jnc{
+   display: flex;
+   flex-direction: row;
+   padding: 15px;
+}
+.mia1 a href{
+   color: greenyellow;
+}
+
+
